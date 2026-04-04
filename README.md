@@ -22,8 +22,8 @@ The dataset represents a **student management system** with details about studen
   
 ## 🏗️ Database Design
 
-✔ Proper normalization
-✔ Use of **Primary Keys & Foreign Keys**
+✔ Proper normalization<br>
+✔ Use of **Primary Keys & Foreign Keys**<br>
 ✔ Relational structure between tables
 
 ## 🧹 Data Cleaning Steps
