@@ -85,9 +85,9 @@ The dataset contained multiple issues which were cleaned using SQL:
 
 ## 💡 Project Highlights
 
-✔ Real-world dataset with messy data
-✔ End-to-end SQL workflow
-✔ Strong use of analytical queries
+✔ Real-world dataset with messy data<br>
+✔ End-to-end SQL workflow<br>
+✔ Strong use of analytical queries<br>
 ✔ Suitable for **Data Analyst / SQL Developer roles**
 
 ## 🛠️ Tools Used
