@@ -99,7 +99,7 @@ The dataset contained multiple issues which were cleaned using SQL:
 
 1. Create database:
    
-CREATE DATABASE student_data;
+CREATE DATABASE student_data;<br>
 USE student_data;
 
 3. Create tables
